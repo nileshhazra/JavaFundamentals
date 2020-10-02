@@ -20,8 +20,6 @@
 | boolean 	|   1   	| true / false                	|
 
 >By default Java See Numerical values as int and double therefore , when using long or float we have to add L and F at the end of the number.
->Example :
-```java
-long revenue = 542295423L;
-float serviceTax = 54.99F;
-```
+
+
+>NOTE: String in Java is a reference data type and are immutable.
