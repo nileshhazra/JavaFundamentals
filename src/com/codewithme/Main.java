@@ -1,12 +1,13 @@
 package com.codewithme;
 
-import java.util.Date;
-
 public class Main {
 
     public static void main(String[] args) {
-		Date date = new Date();
-		System.out.println(date);
+        int number = 5;
+        if (number >= 2)
+            System.out.println("greater than 2!");
+
+
 
     }
 }
